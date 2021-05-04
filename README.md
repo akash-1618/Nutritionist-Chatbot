@@ -1,7 +1,7 @@
 # Nutritionist Chatbot
  An AIML-based nutritionist chatbot created using Python and Discord API.
  
- Run the [main.py](/main.py) file.
+ Run the [main.py](/main.py) file. You'd require a Discord account; deploy the bot on any text channel. Use Heroku for 24x7 service.
  
  Refer [this](/articlesReferred.txt) to view the articles referred.
  
