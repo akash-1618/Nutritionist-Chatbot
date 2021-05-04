@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+
+<category><pattern>WHAT IS NUTRITION</pattern>
+<template>Nutrition is the study of nutrients in food, how the body uses them, and the relationship between diet, health, and disease.</template>
+</category>
+<category><pattern>WHAT ARE FATS</pattern>
+<template><random>
+<li>Fats are substances that help the body use some vitamins and keep the skin healthy; they are also the main way the body stores energy. In food, there are many types of fats -- saturated, unsaturated, polyunsaturated, monounsaturated, and trans fats.</li>
+<li>In nutrition, biology, and chemistry, fat usually means any ester of fatty acids, or a mixture of such compounds; most commonly those that occur in living beings or in food.</li>
+</random></template></category>
+
+<category><pattern>WHAT IS SATURATED FAT</pattern>
+<template>Saturated fat is a type of dietary fat. It is one of the unhealthy fats, along with trans fat. These fats are most often solid at room temperature. Foods like butter, palm and coconut oils, cheese, and red meat have high amounts of saturated fat.</template>
+</category>
+
+<category><pattern>WHAT IS UNSATURATED FAT</pattern>
+<template>Unsaturated fats are loosely packed. They tend to be liquid at room temperature.</template>
+</category>
+
+<category><pattern>WHAT IS POLYUNSATURATED FAT</pattern>
+<template>It is one of the healthy fats, along with monounsaturated fat. Polyunsaturated fat is found in plant and animal foods, such as salmon, vegetable oils, and some nuts and seeds.</template>
+</category>
+
+<category><pattern>WHAT IS MONOUNSATURATED FAT</pattern>
+<template>Monounsaturated fats are healthy fats found in olive oil, avocados and certain nuts. They can help with weight loss, reduce the risk of heart disease and decrease inflammation.</template>
+</category>
+
+<category><pattern>WHAT IS TRANS FAT</pattern>
+<template>Trans fats, or trans-fatty acids, are a form of unsaturated fat. They come in both natural and artificial forms. Natural, or ruminant, trans fats occur in the meat and dairy from ruminant animals, such as cattle, sheep, and goats. These fats hold no nutritional value.</template>
+</category>
+
+<category><pattern>WHAT IS PROTEIN</pattern>
+<template><random>
+<li>Proteins are made of amino acids, which function as a cell's "building blocks." Cells need protein to grow and to mend themselves. Protein is found in many foods, like meat, fish, poultry, eggs, legumes, and dairy products.</li>
+<li>Protein is the basic component of living cells and is made of carbon, hydrogen, oxygen, nitrogen and one or more chains of amino acids. The three types of proteins are fibrous, globular, and membrane.</li>
+</random></template></category>
+
+<category><pattern>WHAT IS FIBROUS PROTEIN</pattern>
+<template>Fibrous proteins form muscle fiber, tendons, connective tissue and bone.</template>
+</category>
+
+<category><pattern>WHAT IS GLOBULAR PROTEIN</pattern>
+<template>Globular proteins are more water soluble than the other classes of proteins and they have several functions including transporting, catalyzing, and regulating.</template>
+</category>
+
+<category><pattern>WHAT IS MEMBRANE PROTEIN</pattern>
+<template>Membrane proteins play several roles including relaying signals within cells, allowing cells to interact, and transporting molecules.</template>
+</category>
+
+<category><pattern>*HIGH PROTEIN FOOD*</pattern>
+<template><random>
+<li>Beans : Tofu (½ cup) - 20g | Soy milk (1 cup) - 6 to 10g | Soy beans (½ cup cooked) - 14g | Split peas (½ cup cooked) - 8g | Other beans like black, pinto, lentils (1/2 cup) - 7 to 10g</li>
+<li>Eggs and Dairy : Egg (1 large) - 6g | Cottage cheese (½ cup) - 15g | Milk (1 cup) - 8g | Yogurt (1 cup) - 8 to 12g | Soft cheeses like brie, camembert mozzarella (1 oz) - 6g | Medium cheeses like cheddar and Swiss (1 oz) - 7 to 8g | Hard cheeses like parmesan (1 oz) - 10g</li>
+<li>Nuts and Seeds : Almonds (¼ cup) - 8g | Cashews (¼ cup) - 5g | Flax seeds (¼ cup) - 8g | Peanut butter (2 Tablespoons) - 8g | Peanuts (¼ cup) - 9g | Pecans (¼ cup) - 2.5g | Pumpkin seeds (¼ cup) - 8g | Sunflower seeds (¼ cup) - 6g</li>
+<li>Beef : Hamburger patty (4 oz) - 28g | Steak (6 oz) - 42g | Other cuts of beef (1 oz) - around 7g</li>
+<li>Chicken : Chicken breast (3.5 oz) - 30g | Chicken thigh -10g | Drumstick - 11g | Wing - 6g | Chicken meat (4 oz cooked) - 35g</li>
+<li>Fish : Most cuts of fish (3.5 oz) - around 22g | Tuna (6 oz) - 4 g</li>
+<li>Pork : Pork chop (average size) - 22g | Pork loin or tenderloin (4 oz) - 9g | Ham (3 oz) - 19g | Ground pork (3 oz cooked) - 22g | Bacon, 1 slice - 3g | Canadian-style bacon (slice) - 5 to 6g</li>
+<li>Here are examples of foods high in protein with the number of grams per 100 grams of the food : Soya beans - 35.9g | Cheese - 30.9g | Venison - 30.21 | Pumpkin seeds - 28.8g | Lobster - 26.41 | Canned tuna fish - 26.3g | Tuna fish - 25.6g | Monkfish - 24g | 
+Crunchy peanut butter - 24.9g | Tilapia - 24g | Skinless chicken breast - 23.5g | Sunflower seeds - 23.4g | Orange roughy - 22.64g | 
+Skinless turkey breast - 22.3g | Boneless salmon fillets - 21.6g | Sardines - 21.5g | Almonds - 21.1g | Beef fillet - 20.9 | Lamb steak - 19.9g | 
+Pork chops - 19.3g | Crab meat - 18.1g | Cod - 17.9g | Shrimp - 17.0g | Haddock - 16.4g | Bacon - 15.9g | Couscous - 15.1g | Anchovies - 14.5g | 
+Pork sausages - 13.9g | Eggs - 12.5g | Pasta - 12.5g | Goji berries - 12.3g | Cottage cheese - 12.2g | Tofu - 12.1g | Pepperoni pizza - 11.4g
+Whole grain bread - 11.0g | Porridge oats - 11.0g | Baked beans - 9.5g | Hummus - 7.4g | Brown rice - 6.9g | Peas - 5.9g | Spaghetti - 5.1g | 
+Yogurt - 4.5g | Broccoli - 4.2g | Coconut - 3.33g | Whole milk - 3.3g | Asparagus - 2.9g | Spinach - 2.8g | Potatoes - 2.1g | Avocado - 1.9g | Bananas - 1.2g | Orange - 1.1g</li>
+</random></template></category>
+
+<category><pattern>WHAT IS VITAMIN</pattern>
+<template><random>
+<li>Vitamins are a group of substances that are needed for normal cell function, growth, and development.</li>
+<li>A vitamin is an organic molecule that is an essential micronutrient which an organism needs in small quantities for the proper functioning of its metabolism. Essential nutrients cannot be synthesized in the organism, either at all or not in sufficient quantities, and therefore must be obtained through the diet.</li>
+</random></template>
+</category>
+
+<category><pattern>WHAT IS VITAMIN A</pattern>
+<template>Vitamin A is a fat-soluble vitamin that is stored in the liver. Vitamin A helps form and maintain healthy teeth, skeletal and soft tissue, mucus membranes, and skin. 
+It is also known as retinol because it produces the pigments in the retina of the eye. 
+Vitamin A promotes good eyesight, especially in low light. It also has a role in healthy pregnancy and breastfeeding</template>
+</category>
+
+<category><pattern>WHAT IS VITAMIN B6</pattern>
+<template>Vitamin B6 is a water-soluble vitamin. Lack of Vitamin B6 in the body is uncommon. It can occur in people with kidney failure, liver disease, or drinking problem. Vitamin B6 is also called pyridoxine. Vitamin B6 helps form red blood cells and maintain brain function. 
+This vitamin also plays an important role in the proteins that are part of many chemical reactions in the body. The more protein you eat the more pyridoxine your body requires.</template>
+</category>
+
+<category><pattern>WHAT IS VITAMIN B12</pattern>
+<template>Vitamin B12 is a water-soluble vitamin. The body can store vitamin B12 for years in the liver. Vitamin B12, like the other B vitamins, is important for protein metabolism. It helps in the formation of red blood cells and in the maintenance of the central nervous system.</template>
+</category>
+
+<category><pattern>WHAT IS VITAMIN C</pattern>
+<template>Vitamin C is a water-soluble vitamin. It is needed for normal growth and development. Vitamin C is needed for the growth and repair of tissues in all parts of your body. Vitamin C is one of many antioxidants. Antioxidants are nutrients that block some of the damage caused by free radicals. The body is not able to make vitamin C on its own. It does not store vitamin C. It is therefore important to include plenty of vitamin C-containing foods in your daily diet.
+It is also called as ascorbic acid, that promotes healthy teeth and gums. It helps the body absorb iron and maintain healthy tissue. It is also essential for wound healing.</template>
+</category>
+
+<category><pattern>WHAT IS VITAMIN D</pattern>
+<template>Vitamin D is a fat-soluble vitamin, also known as the "sunshine vitamin". Fat-soluble vitamins are stored in the body's fatty tissue. Vitamin D helps the body absorb calcium. Calcium and phosphate are two minerals that you must have for normal bone formation. 
+In childhood, your body uses these minerals to produce bones. If you do not get enough calcium, or if your body does not absorb enough calcium from your diet, bone production and bone tissues may suffer. 
+Vitamin D deficiency can lead to osteoporosis in adults or rickets in children</template>
+</category>
+
+<category><pattern>WHAT IS VITAMIN E</pattern>
+<template>Vitamin E is a fat-soluble vitamin. It is an antioxidant. The body also needs vitamin E to help keep the immune system strong against viruses and bacteria. Vitamin E is also important in the formation of red blood cells. It helps the body use vitamin K. It also helps widen blood vessels and keep blood from clotting inside them.
+Cells use vitamin E to interact with each other. It helps them carry out many important functions.</template>
+</category>
+
+<category><pattern>WHAT IS VITAMIN K</pattern>
+<template>Vitamin K is a fat-soluble vitamin. It is also known as tocopherol or "clotting vitamin". It helps the body form red blood cells and use vitamin K.Without it, blood would not clot. Some studies suggest that it helps maintain strong bones in the older adults.</template>
+</category>
+
+<category><pattern>WHAT IS VITAMIN B7</pattern>
+<template>Biotin (B7) is a type of B vitamin. They are water-soluble. Biotin is essential for the metabolism of proteins and carbohydrates, and in the production of hormones and cholesterol.</template>
+</category>
+
+<category><pattern>WHAT IS BIOTIN</pattern>
+<template><srai>WHAT IS VITAMIN B7</srai></template>
+</category>
+
+<category>WHAT IS NIACIN<pattern></pattern>
+<template>Niacin is a type of B vitamin. It is water-soluble vitamin. Niacin helps the digestive system, skin, and nerves to function. It is also important for changing food to energy.</template>
+</category>
+
+<category><pattern>WHAT IS FOLIC ACID</pattern>
+<template>Folic acid and folate are both terms for a type of B vitamin (vitamin B9). Folic acid is water-soluble. Folate is a B vitamin that occurs naturally in foods such as green leafy vegetables, citrus fruit, and beans. Folic acid is man-made (synthetic) folate. It is found in supplements and added to fortified foods.</template>
+</category>
+
+<category><pattern>WHAT IS FOLATE</pattern>
+<template><srai>WHAT IS FOLIC ACID</srai></template>
+</category>
+
+<category><pattern>WHAT IS VITAMIN B9</pattern>
+<template><srai>WHAT IS FOLIC ACID</srai></template>
+</category>
+
+<category><pattern>WHAT IS RIBOFLAVIN</pattern>
+<template>Riboflavin (B2) is a type of B vitamin. It is water soluble. Riboflavin (vitamin B2) works with the other B vitamins. It is important for body growth. It helps in red blood cell production. It also aids in the release of energy from proteins.</template>
+</category>
+
+<category><pattern>WHAT IS VITAMIN B2</pattern>
+<template><srai>WHAT IS RIBOFLAVIN</srai></template>
+</category>
+
+<category><pattern>WHAT IS THIAMIN</pattern>
+<template>Thiamin (B1) is one of the B vitamins. Thiamin helps the body's cells change carbohydrates into energy. The main role of carbohydrates is to provide energy for the body, especially the brain and nervous system. 
+Thiamin also plays a role in muscle contraction and conduction of nerve signals. Thiamin is essential for the metabolism of pyruvate.</template>
+</category>
+
+<category><pattern>WHAT IS VITAMIN B1</pattern>
+<template><srai>WHAT IS THIAMIN</srai></template>
+</category>
+
+<category><pattern>WHAT IS VITAMIN B5</pattern>
+<template>Pantothenic acid (B5) is a type of B vitamin. Pantothenic acid is essential for the metabolism of food. It also plays a role in the production of hormones and cholesterol.</template>
+</category>
+
+<category><pattern>WHAT IS PANTOTHENIC ACID</pattern>
+<template><srai>WHAT IS VITAMIN B5</srai></template>
+</category>
+
+<category><pattern>WHAT IS CHOLINE</pattern>
+<template>Choline helps in normal functioning of the brain and nervous system. Lack of choline can cause swelling in liver.</template>
+</category>
+
+<category><pattern>WHAT IS CARNITINE</pattern>
+<template>Carnitine helps the body to change fatty acids into energy.</template>
+</category>
+
+<category><pattern>FAT SOLUBLE VITAMIN</pattern>
+<template>Fat-soluble vitamins are stored in the body's fatty tissue. The four fat-soluble vitamins are vitamins A, D, E, and K. These vitamins are absorbed more easily by the body in the presence of dietary fat.</template>
+</category>
+
+<category><pattern>WATER SOLUBLE VITAMIN</pattern>
+<template>Water-soluble vitamins dissolve in water so the body cannot store them. Leftover amounts of the vitamin leave the body through the urine. Although the body maintains a small pool of water soluble vitamins, they have to be taken regularly.</template>
+</category>
+
+
+
+
+
+
+
+
+
+
+
+<!--
+<category><pattern></pattern>
+<template></template>
+</category>
+
+<category><pattern></pattern>
+<template><random>
+<li></li>
+<li></li>
+</random></template></category>
+-->
+
+</aiml>
+
+
