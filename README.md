@@ -1,6 +1,8 @@
 # Nutritionist Chatbot
  An AIML-based nutritionist chatbot created using Python and Discord API.
  
+ Run the [main.py](/main.py) file.
+ 
  Refer [this](/articlesReferred.txt) to view the articles referred.
  
  Databases stored in the [kaggle folder](/kaggle) are general available databases downloaded from free sources.
