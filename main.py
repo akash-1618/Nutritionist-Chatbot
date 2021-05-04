@@ -12,11 +12,11 @@ from goto import with_goto
 
 
 #--------------TYPE YOUR TOKEN AND OTHER STUFF BELOW--------------#
-f = open('token.txt','r') #store your token in a separate text file in the same folder
+f = open('token.txt','r') #store your token in a separate text file in the same folder and name the file as token.txt
 token = f.read()
 f.close()
 
-TOKEN = token # your token
+TOKEN = token # your token gets passed in this step; don't alter anything here
 
 channel_name = "your-channel-name-goes-here" # default channel name
 
