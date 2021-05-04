@@ -6,8 +6,8 @@
  Databases stored in the [kaggle folder](/kaggle) are general available databases downloaded from free sources.
  
  The AIML files - [Cathy](https://github.com/DevDungeon/Cathy/tree/master/cathy/aiml/alice) and [Standard](https://github.com/russellhaering/ansr8r/tree/master/standard). 
- You can add [this free PandoraBots AIML file](https://github.com/pandorabots/Free-AIML) too.
+ You can also add [this free PandoraBots AIML file](https://github.com/pandorabots/Free-AIML).
  
- The diet suggestions have been taken from [here](https://github.com/Nitintin/Dietitian_AI).
+ The diet suggestions are from [here](https://github.com/Nitintin/Dietitian_AI).
  
  
