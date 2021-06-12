@@ -26,7 +26,7 @@ six==1.15.0
 toolz==0.11.1
 typing-extensions==3.7.4.3
 urllib3>=1.26.4
-websockets==3.4
+websockets>=9.1
 xlrd==2.0.1
 yarl==1.6.3
 zipp==3.4.1
