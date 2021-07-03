@@ -2,11 +2,11 @@
 BMR formula : https://en.wikipedia.org/wiki/Harris%E2%80%93Benedict_equation
 <br>Diet from BMR : https://github.com/Nitintin/Dietitian_AI#:~:text=The%20Artificial%20Intelligence%20Dietician%20is,body%20type%2C%20height%20and%20weight.
 
-<br>Underweight : https://www.medicalnewstoday.com/articles/321612
+Underweight : https://www.medicalnewstoday.com/articles/321612
 
-<br>Obese : https://www.mayoclinic.org/diseases-conditions/obesity/symptoms-causes/syc-20375742
+Obese : https://www.mayoclinic.org/diseases-conditions/obesity/symptoms-causes/syc-20375742
 
-<br>High Protein Foods: https://examples.yourdictionary.com/examples-of-protein.html
+High Protein Foods: https://examples.yourdictionary.com/examples-of-protein.html
 
 <br>Vitamins : https://medlineplus.gov/ency/article/002399.htm
     <br>Vitamin A : https://medlineplus.gov/ency/article/002400.htm
