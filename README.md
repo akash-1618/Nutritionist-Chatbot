@@ -3,7 +3,7 @@
  
  Run the [main.py](/main.py) file. You'd require a Discord account; deploy the bot on any text channel. Use Heroku for 24x7 service.
  
- Refer [this](/articlesReferred.txt) to view the articles referred.
+ Refer [this](/articlesReferred.MD) to view the articles referred.
  
  Databases stored in the [kaggle folder](/kaggle) are general available databases downloaded from free sources.
  
