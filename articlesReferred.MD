@@ -1,6 +1,6 @@
 
 BMR formula : https://en.wikipedia.org/wiki/Harris%E2%80%93Benedict_equation
-<br>Diet from BMR : https://github.com/Nitintin/Dietitian_AI#:~:text=The%20Artificial%20Intelligence%20Dietician%20is,body%20type%2C%20height%20and%20weight.
+<br><br>Diet from BMR : https://github.com/Nitintin/Dietitian_AI#:~:text=The%20Artificial%20Intelligence%20Dietician%20is,body%20type%2C%20height%20and%20weight.
 
 Underweight : https://www.medicalnewstoday.com/articles/321612
 
