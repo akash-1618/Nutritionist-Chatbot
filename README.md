@@ -23,6 +23,9 @@
  
  The diet suggestions are from [here](https://github.com/Nitintin/Dietitian_AI).
  
+ <img src="https://imgur.com/vmc0zXi.gif" alt="Image not displayed!!">
+ <img src="https://imgur.com/5qq2aDd.gif" alt="Image not displayed!!">
+ 
 
  
  
